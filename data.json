@@ -1,0 +1,47 @@
+{
+  "companyLogo": "https://149510500.v2.pressablecdn.com/wp-content/uploads/2020/11/UBTI-Logo_Secondary-02.png",
+  "employees": [
+    {
+      "id": 1,
+      "name": "Anupriya G",
+      "role": "Intern",
+      "team": "Fabrics"
+    },
+    {
+      "id": 2,
+      "name": "Mohammed Abdul Malik",
+      "role": "Intern",
+      "team": "Fabrics"
+    },
+    {
+      "id": 3,
+      "name": "Saranya R",
+      "role": "Intern",
+      "team": "Fabrics"
+    },
+    {
+      "id": 4,
+      "name": "Shobika P",
+      "role": "Intern",
+      "team": "Fabrics"
+    },
+    {
+      "id": 4,
+      "name": "Sri Swetha T K",
+      "role": "Intern",
+      "team": "Fabrics"
+    },
+    {
+      "id": 4,
+      "name": "Vaishnaviy S",
+      "role": "Intern",
+      "team": "Fabrics"
+    },
+    {
+      "id": 4,
+      "name": "Hemanth Rajan M",
+      "role": "Intern",
+      "team": "Fabrics"
+    }
+  ]
+}
